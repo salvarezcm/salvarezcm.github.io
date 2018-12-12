@@ -1,0 +1,13 @@
+body {
+  background-color:black;
+  color: white;
+  margin: 30px 30px 30px 30px;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+  display: inline-block;
+}
+
+img {width:5%;}
